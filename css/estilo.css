@@ -1,0 +1,12 @@
+/*Zerando margens do navegador*/
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+/*Estrutura do site*/
+
+body{
+	background: #f4f2ec url("../img/fundo.png") repeat-x;
+}
