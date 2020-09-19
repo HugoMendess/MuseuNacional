@@ -96,12 +96,28 @@ section#visita{
 	margin-top: 10px;
 }
 
+section#galeria a{
+	display: block;
+	background: #5D8AA8;
+	margin: 25px;
+	border-radius: 5px;
+	float: left;
+	padding: 5px;
+
+}
+
+section#galeria{
+	margin-top: 20px;
+
+}
+
 h4{
 	color: #1ed014;
 	font-weight: bold;
 	font-size: 1.2em;
 	padding-bottom: 8px;
 	margin-bottom: 0px;
+	margin-left: 20px;
 }
 
 /*Formulários*/
