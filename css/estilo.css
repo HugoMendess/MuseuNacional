@@ -22,21 +22,28 @@ body{
 /*Links do site*/
 a:link, a:active, a:visited{
 	text-decoration: none;
-	color: #af670a;
+	color: #ff2401;
 }
 
 a:hover{
-	color: #227115;
+	color: #ee4321;
 }
 
 /*cabecalho do site*/
-
+/*
 #logo a{
 	width: 248px;
 	height: 21px;
 	text-indent: -9999px;
 	display: block;
 	background: url("../img/logo.png");
+}*/
+
+#logo h1 a{
+	color: #fff;
+}
+#logo h1 a strong{
+	color: #ff2401;
 }
 
 /*Navegação*/
@@ -65,3 +72,4 @@ nav ul li a:link{
 nav ul li a:hover{
 	border-bottom:1px solid #fff;
 }
+
