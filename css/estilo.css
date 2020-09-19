@@ -73,3 +73,19 @@ nav ul li a:hover{
 	border-bottom:1px solid #fff;
 }
 
+
+/*Área Principal do site*/
+
+#conteudo{
+	width: 710px;
+	float: left;
+	margin: 35px 0px;
+
+}
+
+aside{
+	width: 350px;
+	float: right;
+	background: #ebe7dd;
+	margin: 35px 0px;
+}
