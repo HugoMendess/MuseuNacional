@@ -209,3 +209,22 @@ legend{
 	width: 55%;
 }
 
+
+/*Rodape*/
+footer{
+	clear: both;
+	padding: 20px 0 30px 0px;
+	text-align: center;
+	background: url("../img/fundo.png");
+	color: #fff;
+	margin-top: 20px;
+}
+
+footer>p a{
+	padding: 2px 10px;
+}
+
+footer p{
+	padding: 10px 0px;
+}
+
