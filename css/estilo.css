@@ -111,6 +111,44 @@ section#galeria{
 
 }
 
+article#video{
+	float: left;
+	width: 310px;
+	margin-left: 25px;
+}
+
+article#mapa{
+	float: left;
+	width: 310px;
+	margin-left: 37px;
+}
+
+article#exposicoes{
+	float: left;
+	width: 310px;
+	margin: 15px 0 0 25px;
+
+}
+
+article#historia{
+	float: left;
+	width: 310px;
+	margin: 15px 0 0 25px;
+
+}
+
+article#historia p{
+	text-align: justify;
+}
+
+h3{
+		color: #1ed014;
+		font-size: 1.0em;
+		margin-bottom: 15px;
+		margin-top: 15px;
+		text-transform: uppercase;
+}
+
 h4{
 	color: #1ed014;
 	font-weight: bold;
@@ -170,3 +208,4 @@ legend{
 	border-radius: 3px;
 	width: 55%;
 }
+
