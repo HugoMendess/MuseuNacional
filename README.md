@@ -1,5 +1,5 @@
 # Museu Nacional
-#### Projeto Museu Nacional desenvolvido no Curso de Desenvolvimento Web 20 Cursos 20 Projetos
+#### Projeto Museu Nacional desenvolvido no Curso de Desenvolvimento Web 20 Cursos 20 Projetos. Estou aprofundando meus conhecimentos em HTML5, CSS3 e Javascript e gostaria de compartilhar com vocês meus projetos pessoas para treino, se puderem dar feedbacks, fiquem a vontade.
 
 ![Imagem do projeto final](https://github.com/HugoMendess/MuseuNacional/blob/master/imagem-projeto.JPG)
 ![Imagem do projeto final](https://github.com/HugoMendess/MuseuNacional/blob/master/imagem2-projeto.JPG)
